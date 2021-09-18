@@ -1,5 +1,4 @@
 ## OCR model for reading Captchas
-****
 
 **Introduction**
 
@@ -12,6 +11,7 @@ implementing CTC loss.
 
 
 **Train and Inference:**
+
 Unzip the file `captcha_images_v2.zip`
 
     python main.py
